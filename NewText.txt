@@ -1,6 +1,5 @@
 Here is an important text.
-Added line in new_branch.
-<<<<<<< HEAD
+
 
 At the same time, whis file is changing into branch master b adding this lines.
 At the same time, whis file is changing into branch master b adding this lines.
@@ -8,6 +7,3 @@ At the same time, whis file is changing into branch master b adding this lines.
 At the same time, whis file is changing into branch master b adding this lines.
 At the same time, whis file is changing into branch master b adding this lines.
 At the same time, whis file is changing into branch master b adding this lines.
-=======
-Added line in new_branch.
->>>>>>> new_branch
