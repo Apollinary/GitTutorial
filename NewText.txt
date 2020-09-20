@@ -1,2 +1,2 @@
 Here is an important text.
-Added line in new_branch.
+Just added line in new_branch again.
