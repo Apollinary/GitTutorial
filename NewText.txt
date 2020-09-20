@@ -6,8 +6,3 @@ At the same time, whis file is changing into branch master b adding this lines.
 At the same time, whis file is changing into branch master b adding this lines.
 At the same time, whis file is changing into branch master b adding this lines.
 At the same time, whis file is changing into branch master b adding this lines.
-<<<<<<< HEAD
-At the same time, whis file is changing into branch master b adding this lines.
-=======
-At the same time, whis file is changing into branch master b adding this lines.
->>>>>>> 42a40596404e9e6e5e39f4bf466a63a5cbf21e19
