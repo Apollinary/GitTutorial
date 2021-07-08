@@ -6,6 +6,7 @@ public class Task {
 		System.out.println("This line added into somefix.");
 		System.out.println("This line added into new_branch.");
 		System.out.println("Another line edited into somefix.");
+		System.out.println("This line is added in branch somefix after merge.");
 
 		int firstNumber = Integer.valueOf(args[0]);
 		int secondNumber = Integer.valueOf(args[1]);
