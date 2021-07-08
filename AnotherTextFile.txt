@@ -1,1 +1,3 @@
 Another important text.
+
+Another important text after merge.
