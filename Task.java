@@ -9,14 +9,14 @@ public class Task {
 		System.out.println("This line is added in branch somefix after merge.");
 
 		int firstNumber = Integer.valueOf(args[0]);
-		int secondNumber = Integer.valueOf(args[1]);
+		int sn = Integer.valueOf(args[1]);
 		
-		if (firstNumber > secondNumber) {
-			System.out.println(firstNumber + " is more then " + secondNumber);
+		if (firstNumber > sn) {
+			System.out.println(firstNumber + " is more then " + sn);
 		}
 		else {
-			System.out.println(firstNumber + " is no more then " + secondNumber);
+			System.out.println(firstNumber + " is no more then " + sn);
 		}
-		System.out.println(firstNumber + secondNumber);
+		System.out.println(firstNumber + sn);
 	}
 }
