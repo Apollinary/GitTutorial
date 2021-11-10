@@ -1,5 +1,5 @@
 Here is an important text.
-Added line here from somefix.
+Changed this line from somefix.
 
 At the same time, whis file is changing into branch master b adding this lines.
 At the same time, whis file is changing into branch master b adding this lines.
