@@ -1,8 +1,9 @@
 Here is an important text.
 Changed this line from somefix.
 
-At the same time, whis file is changing into branch master b adding this lines.
+In feature2 we change these
 Change line 5 while feature2 in progress.
+two lines.
 
 Let's make a new commit with this line changed from master. This commit will be ported to the branch "new_branch".
 
