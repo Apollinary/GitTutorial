@@ -2,7 +2,8 @@ Here is an important text.
 Changed this line from somefix.
 
 In feature2 we change these
-Change line 5 while feature2 in progress.
+In feature2 we change line 5
+And also line6
 This line must be saved after rebase.
 
 Let's make a new commit with this line changed from master. This commit will be ported to the branch "new_branch".
