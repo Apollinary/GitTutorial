@@ -2,3 +2,4 @@ Another important text.
 
 Another important text after merge.
 Also added line here.
+Also added line here in rebase-test.

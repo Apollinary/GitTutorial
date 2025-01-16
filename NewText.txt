@@ -3,7 +3,7 @@ Changed this line from somefix.
 
 In feature2 we change these
 In feature2 we change line 5
-And also line6
+Line changed in rebase-test branch.
 This line must be saved after rebase.
 This line must be saved after rebase.
 
