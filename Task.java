@@ -5,7 +5,7 @@ public class Task {
 	public static void main(String args[]) {
 		System.out.println("This line added into somefix.");
 		System.out.println("This line added into new_branch.");
-		System.out.println("This line added into branch1.");
+		System.out.println("This line added into feature1.");
 		System.out.println("This line added into branch1.");
 		System.out.println("This line changed in rebase-test-2 to make conflict.");
 		System.out.println("This line edited in branch1 after somefix merge.");
